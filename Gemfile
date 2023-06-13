@@ -36,4 +36,5 @@ gem "webrick", "~> 1.8"
 
 # themes
 # gem "jekyll-theme-hydejack"
-gem "jekyll-theme-basically-basic"
+# gem "jekyll-theme-basically-basic"
+gem "github-pages", group: :jekyll_plugins
