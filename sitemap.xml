@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/jekyll/update/2023/06/07/welcome-to-jekyll.html</loc>
+<loc>https://jessechenhalls.com/jekyll/update/2023/06/07/welcome-to-jekyll.html</loc>
 <lastmod>2023-06-07T22:39:58-06:00</lastmod>
 </url>
 <url>
-<loc>/about</loc>
+<loc>https://jessechenhalls.com/about</loc>
 </url>
 <url>
-<loc>/contact</loc>
+<loc>https://jessechenhalls.com/contact</loc>
 </url>
 <url>
-<loc>/cool</loc>
+<loc>https://jessechenhalls.com/cool</loc>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://jessechenhalls.com/</loc>
 </url>
 <url>
-<loc>/old-index.html</loc>
+<loc>https://jessechenhalls.com/old-index.html</loc>
 <lastmod>2023-06-07T23:55:57-06:00</lastmod>
 </url>
 </urlset>
